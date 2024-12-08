@@ -1,3 +1,3 @@
 print("Hello World")
 print("Git fetch Demo")
-print("Gt pull demo")
+print("Git pull demo")
